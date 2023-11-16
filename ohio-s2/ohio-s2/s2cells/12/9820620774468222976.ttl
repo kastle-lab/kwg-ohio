@@ -1,0 +1,38 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix kwg-ont: <http://stko-kwg.geog.ucsb.edu/lod/ontology/> .
+@prefix kwgr: <http://stko-kwg.geog.ucsb.edu/lod/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+kwgr:s2.level11.9820620980626653184 kwg-ont:sfContains kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820609229596131328 kwg-ont:sfTouches kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820609641912991744 kwg-ont:sfTouches kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820609779351945216 kwg-ont:sfTouches kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820620499590316032 kwg-ont:sfTouches kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820620637029269504 kwg-ont:sfTouches kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820620911907176448 kwg-ont:sfTouches kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820621049346129920 kwg-ont:sfTouches kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820621186785083392 kwg-ont:sfTouches kwgr:s2.level12.9820620774468222976 .
+
+kwgr:s2.level12.9820620774468222976 a kwg-ont:KWGCellLevel12 ;
+    rdfs:label "S2 Cell at level 12 with ID 9820620774468222976"^^xsd:string ;
+    kwg-ont:cellID 9820620774468222976 ;
+    kwg-ont:sfTouches kwgr:s2.level12.9820609229596131328,
+        kwgr:s2.level12.9820609641912991744,
+        kwgr:s2.level12.9820609779351945216,
+        kwgr:s2.level12.9820620499590316032,
+        kwgr:s2.level12.9820620637029269504,
+        kwgr:s2.level12.9820620911907176448,
+        kwgr:s2.level12.9820621049346129920,
+        kwgr:s2.level12.9820621186785083392 ;
+    kwg-ont:sfWithin kwgr:s2.level11.9820620980626653184 ;
+    geo:hasMetricArea "4319203.013429894"^^xsd:float .
+
