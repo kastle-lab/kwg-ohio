@@ -10,3 +10,35 @@
 | Ohio One Source(hospital data)	|  [Click Here](https://publicappstst.odh.ohio.gov/EDW/DataBrowser/Browse/OhioOneSource)   | CSV |
 | Lead Hazardous Properties	  |   [Click Here](https://data.ohio.gov/wps/portal/gov/data/view/lead-hazardous-properties-2nd-order)  |  CSV |
 | Ohio Medical Marijuana Data | [Click Here](https://medicalmarijuana.ohio.gov/DispensaryLocations) | Excel/XLS|
+
+
+## NLP Resources to convert Natural Language to SPARQL Queries:
+
+### Research Papers: 
+
+1) LLM-Based SPARQL Generation with Selected Schema from Large Scale Knowledge Base
+
+2) GENTKG: Generative Forecasting on Temporal Knowledge Graph
+
+3) https://link.springer.com/content/pdf/10.1186/s40537-020-00383-w.pdf
+
+4) PAROT: Translating natural language to SPARQL
+
+### SanJose University Masters thesis:
+
+Translating Natural Language Queries to SPARQL 
+
+### Articles:
+
+1) https://mgalkin.medium.com/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8
+
+2) https://www.amazon.science/blog/new-method-improves-knowledge-graph-based-question-answering
+
+3) https://www.sciencedirect.com/science/article/abs/pii/S0020025518309848
+
+4) https://towardsdatascience.com/a-decade-of-knowledge-graphs-in-natural-language-processing-5fdb15abc2b3
+
+### Github Repo:
+
+https://github.com/vasugr/Natural-Language-To-SPARQL
+
